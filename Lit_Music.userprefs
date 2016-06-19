@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\instaRight.cs">
+    <Files>
+      <File FileName="Assets\instaRight.cs" Line="39" Column="29" />
+      <File FileName="Assets\TimeLogRightArrow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CreateNote.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Beat.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
